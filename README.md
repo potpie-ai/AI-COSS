@@ -9,6 +9,7 @@ This README contains a curated list of agentic open-source companies, organized 
 
 
 </br>
+
 ![Agentic AI COSS Companies](https://cdn.prod.website-files.com/66f16517ab00018286b71576/67c719c98a38ef755c83d113_ai-coss.png)
 
 ## Table of Contents
