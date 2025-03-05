@@ -1,6 +1,14 @@
 # Agentic Open Source Companies List
 
 This README contains a curated list of agentic open-source companies, organized by category. For each company, you'll find links to their GitHub repository, website, and a brief description. 
+</br>
+</br>
+<a href="https://discord.gg/ryk5CMD5v6">
+    <img src="https://img.shields.io/badge/Join%20our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord">
+</a>
+
+
+</br>
 ![Agentic AI COSS Companies](https://cdn.prod.website-files.com/66f16517ab00018286b71576/67c719c98a38ef755c83d113_ai-coss.png)
 
 ## Table of Contents
